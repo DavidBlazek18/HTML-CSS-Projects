@@ -1,0 +1,14 @@
+html    {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 300%;
+}
+
+/* setting properties for the form */
+.submit input[type="submit"]    {
+    width: 25%;
+    margin: 3px 10%;
+    border: 2px solid green;
+    border-radius: 3px;
+    
+}
+
